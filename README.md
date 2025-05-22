@@ -1,1 +1,2 @@
 # -Exploring-the-impacts-of-social-media-on-mental-health
+In recent years, the pervasive use of social media platforms has significantly influenced various aspects of our lives, including communication, information dissemination, and social interaction. While social media offers numerous benefits, it also poses risks to mental health, such as increased anxiety, depression, and loneliness. This project seeks to provide a comprehensive analysis of these impacts using advanced data analysis and machine learning techniques.
